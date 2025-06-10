@@ -19,11 +19,11 @@ This project applies unsupervised learning techniques—**K-Means** and **Gaussi
 ## Requirements
 The following Python libraries are required to run the project:
 
-~~
+~~~
 
 pip install ucirepo scikit-learn numpy matplotlib
 
-~~
+~~~
 
 ## Algorithms Used
 - **K-Means Clustering** (Hard assignment)
