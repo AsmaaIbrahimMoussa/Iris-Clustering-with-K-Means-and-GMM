@@ -16,6 +16,13 @@ This project applies unsupervised learning techniques—**K-Means** and **Gaussi
 ## Dataset
 - **Source**: [UCI Machine Learning Repository – Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
 - **Loaded using**: [`ucirepo`](https://archive.ics.uci.edu/)
+## Requirements
+The following Python libraries are required to run the project:
+~~
+
+pip install ucirepo scikit-learn numpy matplotlib
+
+~~
 
 ## Algorithms Used
 - **K-Means Clustering** (Hard assignment)
