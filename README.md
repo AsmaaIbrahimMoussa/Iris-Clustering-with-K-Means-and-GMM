@@ -39,8 +39,8 @@ Each clustering method is evaluated using:
 These metrics measure clustering quality against the true species labels and internal cluster structure.
 
 
-## Summary: K-Means vs GMM Based on Results
-In this project, both K-Means and Gaussian Mixture Models (GMM) were applied to the Iris dataset. The results show that:
+## Results
+The results show that:
 
 - **GMM** achieved significantly higher performance in terms of Adjusted Rand Index (0.90) and Homogeneity Score (0.89), indicating it more accurately grouped data points according to the true species.
 
